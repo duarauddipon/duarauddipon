@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Uddipon
 - 👀 I’m interested in Java Application Development and Web Applications
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently working on my own Spring Boot projects using REST API's
 - 💞️ I’m looking to collaborate on Java Projects based on Spring
 - 📫 How to reach me ... duarauddipon@gmail.com
